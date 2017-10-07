@@ -1,0 +1,6 @@
+<NotepadPlus>
+    <Project name="Test_Repo">
+        <File name="test_program1.ASM" />
+        <File name="test_program2.ASM" />
+    </Project>
+</NotepadPlus>
